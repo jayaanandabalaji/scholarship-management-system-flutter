@@ -5,8 +5,7 @@ A complete scholarship management system seperate with admin, organization and s
 
 Android Apk
 
-[![apk](https://www.yt3dl.net/images/apk-download-badge.png
-)](https://github.com/jayaanandabalaji/scholarship-management-system-flutter/blob/main/apk/app-release.apk?raw=true)
+<a href="https://github.com/jayaanandabalaji/scholarship-management-system-flutter/blob/main/apk/app-release.apk?raw=true"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
 ## 📸 Screenshots
 
 <img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%201.png" width="250" >
