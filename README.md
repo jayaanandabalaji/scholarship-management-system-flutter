@@ -8,35 +8,36 @@ Android Apk
 [![apk](https://www.yt3dl.net/images/apk-download-badge.png
 )](https://github.com/jayaanandabalaji/scholarship-management-system-flutter/blob/main/apk/app-release.apk?raw=true)
 ## 📸 Screenshots
-![flutter scholarship screenshot 1](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%201.png)
+
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%201.png" width="250" >
 
 **Student/organization register**
 
-![flutter scholarship screenshot 2](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%202.png)
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%202.png" width="250" >
 
 **Login**
 
-![flutter scholarship screenshot 3](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%203.png)
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%203.png" width="250" >
 
 **Dashboard**
 
-![flutter scholarship screenshot 4](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%204.png)
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%204.png" width="250" >
 
 **Scholarship details and apply**
 
-![flutter scholarship screenshot 5](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%205.png)
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%205.png" width="250" >
 
 **User profile**
 
-![flutter scholarship screenshot 6](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%206.png)
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%206.png" width="250" >
 
 **Scholarship applicants**
 
-![flutter scholarship screenshot 7](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%207.png)
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%207.png" width="250" >
 
 **Applicant details**
 
-![flutter scholarship screenshot 8](https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%208.png)
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%208.png" width="250" >
 
 **Add scholarship**
 
